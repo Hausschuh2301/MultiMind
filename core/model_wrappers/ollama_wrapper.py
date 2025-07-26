@@ -12,5 +12,5 @@ def query_ollama(prompt):
 
     model_name = ollama_config.get("model_name", "llama3")
 
-    # Simulierte Antwort
     return f"[Simulierte Ollama-Antwort mit Modell '{model_name}' auf: '{prompt}']"
+

@@ -73,7 +73,19 @@ MIT Lizenz
 
 ## Autor
 
+<<<<<<< HEAD
 TimHa – 2025  
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hausschuh2301 – 2025  
+=======
+TimHa – 2025  
+>>>>>>> 131c861 (Buffixes // Fix OpenAI wrapper for openai v0.28.0 compatibility)
+=======
+Hausschuh2301 – 2025  
+>>>>>>> b7ca9b71f202500506c81444444be644caa716be
+>>>>>>> 48f90b8 (Buffixes // Fix OpenAI wrapper for openai v0.28.0 compatibility)
 GitHub: [Hausschuh2301](https://github.com/Hausschuh2301)
 
 ---

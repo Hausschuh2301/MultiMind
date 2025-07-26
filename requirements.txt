@@ -3,3 +3,4 @@ anthropic
 pyyaml
 requests
 streamlit
+openai==0.28

@@ -1,6 +1,3 @@
-Hier ist die fertige `README.md` für dein MULTIMIND-Projekt:
-
-```markdown
 # 🧠 MULTIMIND – KI-Aggregator (lokal + API)
 
 MULTIMIND kombiniert mehrere KI-Modelle (lokal und per API), um die besten Antworten zu generieren und diese zusammenzufassen.
@@ -85,7 +82,3 @@ GitHub: [Hausschuh2301](https://github.com/Hausschuh2301)
 
 Fragen oder Probleme? Issues öffnen unter:  
 https://github.com/Hausschuh2301/MultiMind/issues
-```
-
-Du kannst diese Datei einfach als `README.md` speichern und ins Repo committen und pushen.  
-Sag gern Bescheid, falls du noch Anpassungen möchtest!

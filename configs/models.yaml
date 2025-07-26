@@ -1,0 +1,7 @@
+openai:
+  api_key: "DEIN_OPENAI_API_KEY"
+  model: "gpt-4"
+
+claude:
+  api_key: "DEIN_CLAUDE_API_KEY"
+  model: "claude-3-opus"

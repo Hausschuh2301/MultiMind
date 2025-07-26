@@ -1,9 +1,0 @@
-models:
-  openai:
-    enabled: true
-    api_key: "sk-..."  # ← deinen echten API-Schlüssel hier eintragen oder Umgebungsvariable
-  claude:
-    enabled: false
-  ollama:
-    enabled: false
-    model_name: "llama3"
